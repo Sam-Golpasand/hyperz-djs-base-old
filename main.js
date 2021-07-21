@@ -10,3 +10,4 @@ client.events = new Discord.Collection();
 })
 
 client.login(config["main_config"].token)
+// This base is outdated
